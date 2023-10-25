@@ -1,4 +1,5 @@
 package string;
+
 /*
 7. Write a java program which replace string to upper case.
  */

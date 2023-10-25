@@ -1,4 +1,5 @@
 package javaprogrammes;
+
 /*
 15. Write a Java program to convert a given string into lowercase.
 Sample Input: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.
@@ -10,7 +11,7 @@ public class Question15 {
 
         String lowercase = name.toLowerCase();
 
-        System.out.println("Output: "+lowercase);
+        System.out.println("Output: " + lowercase);
     }
 
 

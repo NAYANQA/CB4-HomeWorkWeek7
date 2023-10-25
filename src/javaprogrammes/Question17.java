@@ -1,4 +1,5 @@
 package javaprogrammes;
+
 /*
 17. Write a Java Program using below steps.
 17.1 Declare your city as instance variables.
@@ -18,11 +19,13 @@ public class Question17 {
         incout.stCout();
 
     }
-    public void stCout(){
+
+    public void stCout() {
         System.out.println(country);
 
     }
-    public static void insCty(){
+
+    public static void insCty() {
         Question17 cty = new Question17();
 
         System.out.println(cty.city);

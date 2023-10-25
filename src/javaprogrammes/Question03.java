@@ -12,20 +12,30 @@ print statement.
  */
 
 public class Question03 {
+    //Declare one instance
     int a = 10;
+    //Declare static variable.
     static String name = "Test";
 
+    //Declare the Main method.
     public static void main(String[] args) {
+
+        //Call both instance and static methods into the Main method and run the programme.
         Question03 qusmain = new Question03();
         qusmain.insQus03();
         staticQus03();
     }
+    //Declare one instance method.
 
-    public void insQus03(){
+    public void insQus03() {
+        //Call both instance and static variables into both instance and static methods inside the print statement.
         System.out.println(a);
         System.out.println(name);
     }
-    public static void staticQus03(){
+
+    // Declare one static method.
+    public static void staticQus03() {
+//Call both instance and static variables into both instance and static methods inside the print statement.
         Question03 qus = new Question03();
         System.out.println(qus.a);
         System.out.println(name);

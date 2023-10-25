@@ -16,11 +16,12 @@ public class Question12 {
 
 */
         Question12 avg = new Question12();
-        avg.avrg(12,20,30);
+        avg.avrg(12, 20, 30);
     }
-    public void avrg(double a, double b, double c ){
 
-        System.out.println("Three value average is = "+(a + b + c) / 3);
+    public void avrg(double a, double b, double c) {
+
+        System.out.println("Three value average is = " + (a + b + c) / 3);
 
     }
 }

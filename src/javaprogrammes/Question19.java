@@ -1,4 +1,5 @@
 package javaprogrammes;
+
 /*
 19. Write a Java Program using below steps.
 19.1 Declare one of your group member names as instance variable.
@@ -21,7 +22,7 @@ public class Question19 {
 
     }
 
-    public void selenium(){
+    public void selenium() {
         int a = 20;
 
         System.out.println(insName);
@@ -30,7 +31,7 @@ public class Question19 {
 
     }
 
-    public static void agile(){
+    public static void agile() {
         Question19 grn = new Question19();
         System.out.println(grn.insName);
         System.out.println(stName);

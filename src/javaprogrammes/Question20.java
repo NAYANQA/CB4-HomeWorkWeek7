@@ -1,4 +1,5 @@
 package javaprogrammes;
+
 /*
 20. Write a Java Program using below steps.
 20.1 Declare your Spain as static variable.
@@ -19,10 +20,11 @@ public class Question20 {
 
     }
 
-    public void homeCountry(){
+    public void homeCountry() {
         System.out.println(city);
     }
-    public static void holidays(){
+
+    public static void holidays() {
         Question20 hoday = new Question20();
         System.out.println(hoday.country);
     }

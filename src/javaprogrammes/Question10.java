@@ -1,4 +1,5 @@
 package javaprogrammes;
+
 /*
 10. Write a Java program that takes a number as input and prints its multiplication
 table up to 10.
@@ -19,8 +20,8 @@ public class Question10 {
         tbl.table(8);
     }
 
-    public void table(int a){
-        for (int i = 1; i<=10;i++){
+    public void table(int a) {
+        for (int i = 1; i <= 10; i++) {
             System.out.printf("%d * %d = %d \n", a, i, a * i);
         }
     }

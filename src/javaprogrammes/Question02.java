@@ -10,15 +10,20 @@ package javaprogrammes;
  */
 public class Question02 {
 
+    //Declare two static variables.
     static String name = "test";
-    static  String sur ="QA";
+    static String sur = "QA";
 
+    // Declare the Main method.
     public static void main(String[] args) {
+        //Call the static method into the Main method and run the programme.
 
         qau02();
     }
 
-    public static void qau02(){
+    //Declare one static method.
+    public static void qau02() {
+        //Call both static variables into the static method inside the print statement.
         System.out.println(name);
         System.out.println(sur);
     }

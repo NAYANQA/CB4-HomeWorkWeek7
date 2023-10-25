@@ -1,4 +1,5 @@
 package string;
+
 /*
 5. Write a java program to concat 2 string.
 Expected output: I love java I dream java
@@ -13,6 +14,6 @@ public class String05 {
         System.out.println(name2);
 
         String output = name1.concat(name2);
-        System.out.println("Expected output: "+output);
+        System.out.println("Expected output: " + output);
     }
 }
