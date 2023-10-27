@@ -9,8 +9,9 @@ public class String06 {
 
 
         String name = "I@love@java";
-        String output = name.replaceAll("I","@", "We"," ");
-
+        System.out.println(name);
+        String output1 = name.replaceAll("I","we");
+        String output = output1.replaceAll("@", " ");
         System.out.println("Expected output: " + output);
 
     }
