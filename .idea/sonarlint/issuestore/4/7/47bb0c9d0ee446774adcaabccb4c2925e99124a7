@@ -1,3 +1,19 @@
 
-]
-java:S2094"BRemove this empty class, write its code or make it an "interface".(Ã…Æûşÿÿÿÿ
+y
+java:S1192#"\Define a constant instead of duplicating this literal "|                         |" 5 times.(»‰ö®8ó³ì¿¶1
+[
+java:S1854!"9Remove this useless assignment to local variable "total".(›ÚˆÒøÿÿÿÿ8ù³ì¿¶1
+L
+java:S1481!"*Remove this unused "total" local variable.(›ÚˆÒøÿÿÿÿ8ù³ì¿¶1
+F	java:S106""+Replace this use of System.out by a logger.(ŒËÅ8ù³ì¿¶1
+G	java:S106#"+Replace this use of System.out by a logger.(»‰ö®8ù³ì¿¶1
+L	java:S106$"+Replace this use of System.out by a logger.(­şÿÿÿÿ8ù³ì¿¶1
+G	java:S106%"+Replace this use of System.out by a logger.(»‰ö®8ù³ì¿¶1
+L	java:S106&"+Replace this use of System.out by a logger.(¬Ÿ”øÿÿÿÿ8ù³ì¿¶1
+G	java:S106'"+Replace this use of System.out by a logger.(»‰ö®8ù³ì¿¶1
+G	java:S106("+Replace this use of System.out by a logger.(ÿçå®8ù³ì¿¶1
+L	java:S106)"+Replace this use of System.out by a logger.(¾šËúúÿÿÿÿ8ù³ì¿¶1
+G	java:S106*"+Replace this use of System.out by a logger.(»‰ö®8ˆ´ì¿¶1
+G	java:S106+"+Replace this use of System.out by a logger.(îÀÑµ8‰´ì¿¶1
+G	java:S106,"+Replace this use of System.out by a logger.(»‰ö®8‰´ì¿¶1
+F	java:S106-"+Replace this use of System.out by a logger.(ŒËÅ8‰´ì¿¶1

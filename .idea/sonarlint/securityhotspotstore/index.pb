@@ -55,3 +55,5 @@ H
 src/string/String07.java,d\d\dd803b463e9eca9ce28be44cc7988af9a857b60e
 H
 src/string/String08.java,e\4\e4c92fa31dddfbc5d7ffd525161fb58d4f4c044a
+I
+src/javaprogrammes/A.java,4\5\45ff0de22352c82c90c89329dec68aefd19ae471

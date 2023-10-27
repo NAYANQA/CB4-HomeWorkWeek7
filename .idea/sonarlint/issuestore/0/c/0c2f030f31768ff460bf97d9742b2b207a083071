@@ -1,3 +1,13 @@
 
-]
-java:S2094"BRemove this empty class, write its code or make it an "interface".(úÜ¼üÿÿÿÿ
+V
+java:S1854"":Remove this useless assignment to local variable "insqus".(êÎ¬8»—³¿¶1
+G
+java:S1481""+Remove this unused "insqus" local variable.(êÎ¬8»—³¿¶1
+G	java:S106#"+Replace this use of System.out by a logger.(«‹Îõ8»—³¿¶1
+L	java:S106$"+Replace this use of System.out by a logger.(«õı…şÿÿÿÿ8»—³¿¶1
+L	java:S106%"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿ8»—³¿¶1
+L	java:S106&"+Replace this use of System.out by a logger.(š—°øÿÿÿÿ8»—³¿¶1
+L	java:S106-"+Replace this use of System.out by a logger.(ãÒ «üÿÿÿÿ8»—³¿¶1
+L	java:S106."+Replace this use of System.out by a logger.(ıÉïúøÿÿÿÿ8»—³¿¶1
+G	java:S106/"+Replace this use of System.out by a logger.(«‹Îõ8»—³¿¶1
+L	java:S1060"+Replace this use of System.out by a logger.(«õı…şÿÿÿÿ8»—³¿¶1
